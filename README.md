@@ -8,9 +8,8 @@ Ejercicio Git Ramas
 
 4º Creamos la nueva rama exp y nos ponemos en ella
 
-5º Cambiamos algo y hacemos el commit C
+5º Cambiamos algo y hacemos el commit 
 
-6º Hacemos lo mismo de antes pero con D
 
 7º Nos situamos en la rama master git checkout master
 
